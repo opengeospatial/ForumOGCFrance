@@ -16,6 +16,9 @@ Entre autres objectifs, le Forum français de l’OGC s’attache à :
 
 L’Open Geospatial Consortium, Inc. est un consortium international qui rassemble près de 500 entreprises, agences gouvernementales et universités collaborant au développement de spécifications. Les « spécifications OpenGIS® » garantissent l’interopérabilité des contenus, des services et des échanges dans le domaine de l’information géographique. Elles permettent aux développeurs de réaliser des systèmes et des services d’informations complexes rendant l’information géographique accessible à tous et utilisable par tout type d’applications.
 
+## Visite guidée
+
+Pour découvrir les contenus et ressources du Forum OGC rendez-vous sur notre wiki : https://github.com/opengeospatial/ForumOGCFrance/wiki
 
 ## Nous rejoindre
 
