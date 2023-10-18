@@ -18,7 +18,7 @@ L’Open Geospatial Consortium, Inc. est un consortium international qui rassemb
 
 ## Visite guidée
 
-Pour découvrir les contenus et ressources du Forum OGC rendez-vous sur notre wiki : https://github.com/opengeospatial/ForumOGCFrance/wiki
+Pour découvrir les contenus et ressources du Forum OGC France rendez-vous sur notre wiki : https://github.com/opengeospatial/ForumOGCFrance/wiki
 
 ## Nous rejoindre
 
