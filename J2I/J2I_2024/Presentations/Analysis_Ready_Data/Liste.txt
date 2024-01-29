@@ -1,1 +1,8 @@
 Liste des présentations
+
+60_Atelier-ARD.pptx - Introduction atelier et travaux ARD à l'OGC/ISO
+61_IGN-DataDays-ARD.pptx.zip - Presentation Geomatys
+62_20240123-J2I-ARD-IFREMER.pptx - Presentation Ifremer
+63_2024-01-23-libinsitu-J2I-Final.pptx - Presentation Mines de Paris
+64_Expérience NIVA sur ARD.PPTX - Presentation NIVA
+Liste.txt
